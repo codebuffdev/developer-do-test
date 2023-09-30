@@ -15,6 +15,9 @@
 *.iws
 *.iml
 *.ipr
+junit-5/.idea/
+
+
 
 ### target 
 /developer-do-test/junit-5/target
